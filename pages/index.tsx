@@ -6,10 +6,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div className="container py-4">
-      <Head>
-        <title>Meu Portfólio</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+      
 
       <div className="card p-3 mb-4 bg-light rounded-3">
         <div className="card-body" >
