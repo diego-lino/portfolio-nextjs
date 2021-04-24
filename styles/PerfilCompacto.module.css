@@ -1,0 +1,21 @@
+.bio {
+    background: #fdfcfb;
+    border: 1px solid #f0f0f0;
+    padding: 0 15px .5em;
+    text-align: center;
+    font-size: .875rem;
+    
+  }
+  
+  .bio__avatar {
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  
+  .bio__img {
+     max-width: 100%;
+  }
+  
+  .bio__info {
+    padding: .5em 0;
+  }
